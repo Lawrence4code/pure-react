@@ -16,3 +16,6 @@ $('.counter').each(function(){
     }
   });
 });
+
+$('.icons').addClass('animated fadeInDown');
+$('.text').addClass('animated bounceInUp');
